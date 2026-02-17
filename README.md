@@ -1,2 +1,1 @@
-# FP2026
-
+# Funkcionális Programozás 2026
